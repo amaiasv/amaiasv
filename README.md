@@ -22,7 +22,7 @@ Soy Data Engineer con formación en Matemáticas y Estadística y con un máster
 
 ## 📄 Proyectos Académicos
 
-- 📘 [TFM – Análisis avanzado y predicción de series temporales aplicados al estudio de retrasos en aeropuertos]: aplicación de clusterización y modelos predictivos de series temporales clásicos y de redes neuronales para la predicción de retrasos en aeropuertos.
+- 📘 [TFM – Análisis avanzado y predicción de series temporales aplicados al estudio de retrasos en aeropuertos (https://github.com/amaiasv/TFM_Aeropuertos)]: aplicación de clusterización y modelos predictivos de series temporales clásicos y de redes neuronales para la predicción de retrasos en aeropuertos.
 - 📗 [TFG – *Estudio de dependencias entre tests, método de transformaciones. Caso de estudio*]: análisis de la eficacia de la batería Dieharder y valoración de resultados según el método de las transformaciones.
 
 ## 📫 Contacto
